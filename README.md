@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramayantyas S</h1>
-<h3 align="center">A passionate Android Development, Frontend Development, and UI/UX Design</h3>
+<h3 align="center">A passionate at Android Development, Frontend Development, and UI/UX Design</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
