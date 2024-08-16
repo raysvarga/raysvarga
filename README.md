@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raysvarga&label=Profile%20views&color=0e75b6&style=flat" alt="raysvarga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raysvarga" alt="raysvarga" /></a> </p>
-
 - 🌱 I’m currently learning **Back-end Developments**
 
 - 👨‍💻 All of my projects are available at [https://raysvarga.github.io/website-personal/](https://raysvarga.github.io/website-personal/)
