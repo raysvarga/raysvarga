@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://raysvarga.github.io/website-personal/](https://raysvarga.github.io/website-personal/)
 
-- 💬 Ask me about **figma, microsoft office**
+- 💬 Ask me about **Figma, Microsoft Office**
 
-- 📫 How to reach me **tyasrama123@gmail.com**
+- 📫 How to reach me **meramayantyass@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ikk0exRFJp0LiW1t7ZuTJypi8hs9J0LA/view?usp=sharing](https://drive.google.com/file/d/1Ikk0exRFJp0LiW1t7ZuTJypi8hs9J0LA/view?usp=sharing)
 
